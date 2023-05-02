@@ -1,612 +1,616 @@
-{
-    "chefs": [
-        {
-            "picture": "https://example.com/chef1.jpg",
-            "name": "Li Ming",
-            "experience": 15,
-            "num_recipes": 50,
-            "rating": 4.5,
-            "recipes": [
-                {
-                    "name": "Hot and Sour Soup",
-                    "ingredients": [
-                        "dried wood ear mushrooms",
-                        "dried shiitake mushrooms",
-                        "tofu",
-                        "bamboo shoots",
-                        "pork",
-                        "chicken broth",
-                        "soy sauce",
-                        "rice vinegar",
-                        "cornstarch",
-                        "sesame oil",
-                        "white pepper"
-                    ],
-                    "cooking_method": "1. Soak the dried mushrooms in water until softened, then slice thinly. \n2. Cut the tofu and bamboo shoots into small pieces. \n3. In a pot, bring the chicken broth to a boil and add the pork, dried mushrooms, tofu, and bamboo shoots. \n4. Add soy sauce and rice vinegar to taste. \n5. Mix cornstarch with water and add it to the soup to thicken it. \n6. Season with sesame oil and white pepper to taste. \n7. Serve hot.",
-                    "rating": 4.7
-                },
-                {
-                    "name": "Ma Po Doufu",
-                    "ingredients": [
-                        "tofu",
-                        "ground pork",
-                        "doubanjiang (fermented broad bean paste)",
-                        "Sichuan peppercorns",
-                        "green onions",
-                        "garlic",
-                        "ginger",
-                        "chicken broth",
-                        "cornstarch",
-                        "oil",
-                        "soy sauce"
-                    ],
-                    "cooking_method": "1. Cut the tofu into small cubes and set aside. \n2. In a wok, heat up some oil and stir-fry the ground pork until browned. \n3. Add the doubanjiang, Sichuan peppercorns, green onions, garlic, and ginger, and stir-fry until fragrant. \n4. Add chicken broth and bring to a boil. \n5. Gently add the tofu cubes and simmer for a few minutes. \n6. Mix cornstarch with water and add it to the wok to thicken the sauce. \n7. Serve hot with rice.",
-                    "rating": 4.6
-                },
-                {
-                    "name": "Dumplings",
-                    "ingredients": [
-                        "ground pork",
-                        "shrimp",
-                        "Napa cabbage",
-                        "green onions",
-                        "ginger",
-                        "garlic",
-                        "soy sauce",
-                        "sesame oil",
-                        "egg",
-                        "wonton wrappers"
-                    ],
-                    "cooking_method": "1. Finely chop the shrimp, Napa cabbage, green onions, ginger, and garlic. \n2. In a bowl, mix the ground pork, shrimp, Napa cabbage, green onions, ginger, garlic, soy sauce, sesame oil, and egg. \n3. Take a wonton wrapper and add a spoonful of filling in the center. \n4. Fold the wrapper into a half-moon shape and press the edges to seal. \n5. Repeat until all of the filling and wrappers are used up. \n6. In a pot of boiling water, cook the dumplings for about 5-6 minutes until they float to the surface. \n7. Serve hot with soy sauce ",
-                    "rating": 4.6
-                },
-                {
-                    "name": "Kung Pao Chicken",
-                    "ingredients": [
-                        "boneless chicken breast",
-                        "dried red chilies",
-                        "Sichuan peppercorns",
-                        "green onions",
-                        "garlic",
-                        "ginger",
-                        "soy sauce",
-                        "Shaoxing wine",
-                        "cornstarch",
-                        "sugar",
-                        "oil",
-                        "roasted peanuts"
-                    ],
-                    "cooking_method": "1. Cut the boneless chicken breast into small cubes and marinate with soy sauce, Shaoxing wine, cornstarch, and sugar. \n2. In a wok, heat up some oil and stir-fry the dried red chilies, Sichuan peppercorns, green onions, garlic, and ginger until fragrant. \n3. Add the marinated chicken and stir-fry until cooked through. \n4. Add roasted peanuts and stir-fry for another minute. \n5. Serve hot with rice.",
-                    "rating": 4.4
-                },
-                {
-                    "name": "Sichuan Eggplant",
-                    "ingredients": [
-                        "Chinese eggplant",
-                        "ground pork",
-                        "doubanjiang (fermented broad bean paste)",
-                        "Sichuan peppercorns",
-                        "green onions",
-                        "garlic",
-                        "ginger",
-                        "soy sauce",
-                        "Shaoxing wine",
-                        "cornstarch",
-                        "oil"
-                    ],
-                    "cooking_method": "1. Cut the Chinese eggplant into small pieces and soak in water for about 10 minutes. \n2. In a wok, heat up some oil and stir-fry the ground pork until browned. \n3. Add the doubanjiang, Sichuan peppercorns, green onions, garlic, and ginger, and stir-fry until fragrant. \n4. Add the eggplant and stir-fry until cooked through. \n5. Mix cornstarch with water and add it to the wok to thicken the sauce. \n6. Serve hot with rice.",
-                    "rating": 4.3
-                }
-            ]
-        },
-        {
-            "picture": "https://example.com/chef2.jpg",
-            "name": "Wang Wei",
-            "experience": 20,
-            "num_recipes": 60,
-            "rating": 4.8,
-            "recipes": [
-                {
-                    "name": "Xiaolongbao",
-                    "ingredients": [
-                        "ground pork",
-                        "gelatin",
-                        "soy sauce",
-                        "sesame oil",
-                        "sugar",
-                        "green onions",
-                        "ginger",
-                        "water",
-                        "flour",
-                        "yeast",
-                        "baking powder"
-                    ],
-                    "cooking_method": "1. In a bowl, mix ground pork, gelatin, soy sauce, sesame oil, sugar, green onions, and ginger. \n2. In another bowl, mix flour, yeast, and baking powder. \n3. Add water to the flour mixture and knead until smooth. \n4. Let the dough rest for about 30 minutes. \n5. Roll the dough into thin circles and add a spoonful of filling in the center. \n6. Fold the dough into a small purse and twist the top to seal. \n7. Steam the xiaolongbao for about 10-15 minutes. \n8. Serve hot with vinegar and ginger slices.",
-                    "rating": 4.9
-                },
-                {
-                    "name": "Mapo Tofu",
-                    "ingredients": [
-                        "firm tofu",
-                        "ground pork",
-                        "doubanjiang (fermented broad bean paste)",
-                        "Sichuan peppercorns",
-                        "green onions",
-                        "garlic",
-                        "ginger",
-                        "soy sauce",
-                        "cornstarch",
-                        "oil"
-                    ],
-                    "cooking_method": "1. Cut the firm tofu into small cubes and blanch in hot water for about 2 minutes. \n2. In a wok, heat up some oil and stir-fry the ground pork until browned. \n3. Add the doubanjiang, Sichuan peppercorns, green onions, garlic, and ginger, and stir-fry until fragrant. \n4. Add the blanched tofu and soy sauce, and gently stir to coat. \n5. Mix cornstarch with water and add it to the wok to thicken the sauce. \n6. Serve hot with rice.",
-                    "rating": 4.7
-                },
-                {
-                    "name": "Hot and Sour Soup",
-                    "ingredients": [
-                        "dried wood ear mushrooms",
-                        "dried shiitake mushrooms",
-                        "bamboo shoots",
-                        "tofu",
-                        "pork tenderloin",
-                        "white pepper",
-                        "red pepper flakes",
-                        "rice vinegar",
-                        "soy sauce",
-                        "cornstarch",
-                        "egg",
-                        "green onions"
-                    ],
-                    "cooking_method": "1. Soak the dried wood ear mushrooms and dried shiitake mushrooms in hot water until soft. \n2. In a pot, bring chicken stock to a boil and add bamboo shoots, tofu, and thinly sliced pork tenderloin. \n3. Add the soaked mushrooms and simmer for a few minutes. \n4. Season with white pepper, red pepper flakes, rice vinegar, and soy sauce. \n5. Mix cornstarch with water and add it to the pot to thicken the soup. \n6. Beat an egg and slowly pour it into the soup, stirring constantly. \n7. Garnish with green onions and serve hot.",
-                    "rating": 4.6
-                },
-                {
-                    "name": "Beijing Duck",
-                    "ingredients": [
-                        "whole duck",
-                        "salt",
-                        "water",
-                        "maltose",
-                        "hoisin sauce",
-                        "cucumber",
-                        "scallions",
-                        "pancakes"
-                    ],
-                    "cooking_method": "1. Clean the whole duck and remove any innards. \n2. Mix salt with water and pour it over the duck, rubbing it all over. \n3. Hang the duck up to dry in a cool, dry place for at least 6 hours. \n4. Mix maltose with hot water and brush it over the duck to create a shiny glaze. \n5. Roast the duck in the oven at high heat for about 30-40 minutes. \n6. Serve with hoisin sauce, thinly sliced cucumber, scallions, and warm pancakes.",
-                    "rating": 4.9
-                },
-                {
-                    "name": "Moo Shu Pork",
-                    "ingredients": [
-                        "pork loin",
-                        "shiitake mushrooms",
-                        "wood ear mushrooms",
-                        "carrots",
-                        "cabbage",
-                        "eggs",
-                        "hoisin sauce",
-                        "soy sauce",
-                        "sugar",
-                        "cornstarch",
-                        "oil",
-                        "pancakes"
-                    ],
-                    "cooking_method": "1. Slice the pork loininto thin strips and marinate with soy sauce, sugar, and cornstarch. \n2. Soak the shiitake mushrooms and wood ear mushrooms in hot water until soft, and slice thinly. \n3. Shred the carrots and cabbage. \n4. Beat the eggs and make a thin omelette, then slice it into thin strips. \n5. In a wok, heat up some oil and stir-fry the marinated pork until browned. \n6. Add the sliced mushrooms, shredded carrots and cabbage, and stir-fry until tender. \n7. Add hoisin sauce and stir to coat. \n8. Add the sliced omelette and mix well. \n9. Serve hot with warm pancakes.",
-                    "rating": 4.5
-                },
-                {
-                    "name": "Kung Pao Chicken",
-                    "ingredients": [
-                        "chicken breast",
-                        "peanuts",
-                        "dried red chili peppers",
-                        "Sichuan peppercorns",
-                        "ginger",
-                        "garlic",
-                        "green onions",
-                        "soy sauce",
-                        "sugar",
-                        "cornstarch",
-                        "oil"
-                    ],
-                    "cooking_method": "1. Cut the chicken breast into small cubes and marinate with soy sauce, sugar, and cornstarch. \n2. In a wok, heat up some oil and stir-fry the peanuts until golden brown. \n3. Remove the peanuts from the wok and set aside. \n4. In the same wok, add the dried red chili peppers, Sichuan peppercorns, ginger, garlic, and green onions, and stir-fry until fragrant. \n5. Add the marinated chicken and stir-fry until browned. \n6. Add soy sauce and sugar, and stir to coat. \n7. Mix cornstarch with water and add it to the wok to thicken the sauce. \n8. Add the stir-fried peanuts back to the wok and mix well. \n9. Serve hot with rice.",
-                    "rating": 4.8
-                }
-            ]
-        },
-        {
-            "name": "Wenjun Ma",
-            "experience": 12,
-            "recipes_num": 26,
-            "rating": 4.7,
-            "picture": "https://images.unsplash.com/photo-1559548331-1045a667d21e",
-            "recipes": [
-                {
-                    "name": "Ma Po Tofu",
-                    "ingredients": [
-                        "firm tofu",
-                        "ground pork",
-                        "doubanjiang (fermented broad bean paste)",
-                        "Sichuan peppercorns",
-                        "green onions",
-                        "garlic",
-                        "ginger",
-                        "soy sauce",
-                        "cornstarch",
-                        "oil"
-                    ],
-                    "cooking_method": "1. Cut the firm tofu into small cubes and blanch in hot water for about 2 minutes. \n2. In a wok, heat up some oil and stir-fry the ground pork until browned. \n3. Add the doubanjiang, Sichuan peppercorns, green onions, garlic, and ginger, and stir-fry until fragrant. \n4. Add the blanched tofu and soy sauce, and gently stir to coat. \n5. Mix cornstarch with water and add it to the wok to thicken the sauce. \n6. Serve hot with rice.",
-                    "rating": 4.7
-                },
-                {
-                    "name": "Kung Pao Shrimp",
-                    "ingredients": [
-                        "shrimp",
-                        "peanuts",
-                        "dried red chili peppers",
-                        "Sichuan peppercorns",
-                        "ginger",
-                        "garlic",
-                        "green onions",
-                        "soy sauce",
-                        "sugar",
-                        "cornstarch",
-                        "oil"
-                    ],
-                    "cooking_method": "1. Peel and devein the shrimp, and marinate with soy sauce, sugar, and cornstarch. \n2. In a wok, heat up some oil and stir-fry the peanuts until golden brown. \n3. Remove the peanuts from the wok and set aside. \n4. In the same wok, add the dried red chili peppers, Sichuan peppercorns, ginger, garlic, and green onions, and stir-fry until fragrant. \n5. Add the marinated shrimp and stir-fry until pink. \n6. Add soy sauce and sugar, and stir to coat. \n7. Mix cornstarch with water and add it to the wok to thicken the sauce. \n8. Add the stir-fried peanuts back to the wok and mix well. \n9. Serve hot with rice.",
-                    "rating": 4.6
-                },
-                {
-                    "name": "Hot and Sour Soup",
-                    "ingredients": [
-                        "pork shoulder",
-                        "dried shiitake mushrooms",
-                        "wood ear mushrooms",
-                        "bamboo shoots",
-                        "tofu",
-                        "eggs",
-                        "soy sauce",
-                        "vinegar",
-                        "white pepper",
-                        "cornstarch",
-                        "oil"
-                    ],
-                    "cooking_method": "1. Cut the pork shoulder into thin strips and marinate with soy sauce, sugar, and cornstarch. \n2. Soak the shiitake mushrooms and wood ear mushrooms in hot water until soft, and slice thinly. \n3. Cut the bamboo shoots and tofu into small cubes. \n4. Beat the eggs and make a thin omelette, then slice it into thin strips. \n5. In a pot, heat up some oil and stir-fry the marinated pork until browned. \n6. Add the sliced mushrooms, bamboo shoots, and tofu, and stir-fry until tender. \n7. Add soy sauce, vinegar, white pepper, and water, and bring to a boil. \n8. Mix cornstarch with water and add it to the soup to thicken. \n9. Add the sliced omelette and mix well. \n10. Serve hot.",
-                    "rating": 4.5
-                },
-                {
-                    "name": "Scallion Pancakes",
-                    "ingredients": [
-                        "flour",
-                        "water",
-                        "salt",
-                        "sesame oil",
-                        "scallions",
-                        "oil"
-                    ],
-                    "cooking_method": "1. In a bowl, mix flour, water, and salt to make a dough. \n2. Knead the dough for a few minutes until smooth. \n3. Cover the dough and let it rest for 30 minutes. \n4. Roll out the dough into a thin sheet. \n5. Brush the sheet with sesame oil and sprinkle chopped scallions on top. \n6. Roll up the sheet into a cylinder and twist the cylinder into a spiral. \n7. Flatten the spiral with a rolling pin to make a pancake. \n8. In a pan, heat up some oil and pan-fry the pancake until golden brown on both sides. \n9. Cut the pancake into wedges and serve hot.",
-                    "rating": 4.4
-                }
-            ]
-        },
-        {
-            "chef_name": "Chef Zhang",
-            "years_of_experience": 20,
-            "num_of_recipes": 50,
-            "rating": 4.8,
-            "chef_picture": "https://example.com/chef_zhang.jpg",
-            "recipes": [
-                {
-                    "name": "Kung Pao Chicken",
-                    "ingredients": [
-                        "chicken breast",
-                        "dried red chili peppers",
-                        "Sichuan peppercorns",
-                        "ginger",
-                        "garlic",
-                        "green onions",
-                        "peanuts",
-                        "soy sauce",
-                        "sugar",
-                        "cornstarch",
-                        "oil"
-                    ],
-                    "cooking_method": "1. Cut the chicken breast into small cubes and marinate with soy sauce, sugar, and cornstarch. \n2. In a wok, heat up some oil and stir-fry the peanuts until golden brown. \n3. Remove the peanuts from the wok and set aside. \n4. In the same wok, add the dried red chili peppers, Sichuan peppercorns, ginger, garlic, and green onions, and stir-fry until fragrant. \n5. Add the marinated chicken and stir-fry until cooked. \n6. Add soy sauce and sugar, and stir to coat. \n7. Mix cornstarch with water and add it to the wok to thicken the sauce. \n8. Add the stir-fried peanuts back to the wok and mix well. \n9. Serve hot with rice.",
-                    "rating": 4.7
-                },
-                {
-                    "name": "Egg Fried Rice",
-                    "ingredients": [
-                        "rice",
-                        "eggs",
-                        "peas",
-                        "carrots",
-                        "green onions",
-                        "soy sauce",
-                        "oil"
-                    ],
-                    "cooking_method": "1. Cook the rice and let it cool. \n2. Beat the eggs and chop the peas, carrots, and green onions into small pieces. \n3. In a pan, heat up some oil and scramble the eggs. \n4. Add the chopped vegetables and stir-fry for a few minutes. \n5. Add the cooked rice and stir-fry until heated through. \n6. Add soy sauce to taste and stir to coat. \n7. Serve hot.",
-                    "rating": 4.3
-                },
-                {
-                    "name": "Ma Po Tofu",
-                    "ingredients": [
-                        "tofu",
-                        "ground pork",
-                        "dried red chili peppers",
-                        "Sichuan peppercorns",
-                        "ginger",
-                        "garlic",
-                        "green onions",
-                        "doubanjiang (chili bean paste)",
-                        "soy sauce",
-                        "sugar",
-                        "cornstarch",
-                        "oil"
-                    ],
-                    "cooking_method": "1. Cut the tofu into small cubes and set aside. \n2. In a wok, heat up some oil and stir-fry the ground pork until browned. \n3. Add the dried red chili peppers, Sichuan peppercorns, ginger, garlic, and green onions, and stir-fry until fragrant. \n4. Add doubanjiang and stir to coat. \n5. Add water and bring to a boil. \n6. Add the tofu and stir gently to avoid breaking it. \n7. Add soy sauce and sugar, and stir to mix. \n8. Mix cornstarch with water and add it to the wok to thicken the sauce. \n9. Serve hot with rice.",
-                    "rating": 4.6
-                },
-                {
-                    "name": "Steamed Dumplings",
-                    "ingredients": [
-                        "ground pork",
-                        "green onions",
-                        "soy sauce",
-                        "sesame oil",
-                        "dumpling wrappers",
-                        "water"
-                    ],
-                    "cooking_method": "1. Mix the ground pork, chopped green onions, soy sauce, and sesame oil in a bowl. \n2. Place a spoonful of the filling onto a dumpling wrapper. \n3. Wet the edges of the wrapper with water and fold in half to form a half-moon shape. \n4. Pinch the edges together to seal. \n5. Place the dumplings in a steamer basket and steam for about 10 minutes. \n6. Serve hot with soy sauce for dipping.",
-                    "rating": 4.2
-                },
-                {
-                    "name": "Hot and Sour Soup",
-                    "ingredients": [
-                        "pork",
-                        "tofu",
-                        "dried black fungus",
-                        "bamboo shoots",
-                        "carrots",
-                        "dried lily buds",
-                        "green onions",
-                        "ginger",
-                        "garlic",
-                        "white pepper",
-                        "soy sauce",
-                        "rice vinegar",
-                        "cornstarch",
-                        "egg",
-                        "sesame oil"
-                    ],
-                    "cooking_method": "1. Soak the dried black fungus and dried lily buds in water until softened. \n2. Cut the pork, tofu, bamboo shoots, carrots, and softened black fungus and lily buds into thin strips. \n3. In a pot, bring some water to a boil and add the pork, bamboo shoots, carrots, and dried lily buds. \n4. Add ginger, garlic, and white pepper and simmer for about 20 minutes. \n5. Add the softened black fungus and tofu and simmer for another 5 minutes. \n6. Add soy sauce and rice vinegar to taste. \n7. Mix cornstarch with water and add it to the pot to thicken the soup. \n8. Beat an egg and slowly pour it into the soup, stirring constantly. \n9. Add sesame oil and green onions and stir to mix. \n10. Serve hot.",
-                    "rating": 4.8
-                },
-                {
-                    "name": "Scallion Pancakes",
-                    "ingredients": [
-                        "flour",
-                        "water",
-                        "salt",
-                        "oil",
-                        "green onions"
-                    ],
-                    "cooking_method": "1. In a bowl, mix the flour, water, and salt until a dough forms. \n2. Knead the dough for a few minutes, then cover and let rest for about 30 minutes. \n3. Divide the dough into several small balls. \n4. Roll each ball into a thin circle. \n5. Brush the surface of the circle with oil and sprinkle with chopped green onions. \n6. Roll the circle up into a tight spiral. \n7. Flatten the spiral into a circle again. \n8. Repeat with the remaining balls of dough. \n9. Heat up a pan and fry each pancake on both sides until golden brown. \n10. Cut the pancake into wedges and serve hot.",
-                    "rating": 4.4
-                }
-            ]
-        },
-        {
-            "chef_picture": "https://images.unsplash.com/photo-1532630855307-14c73ad33220",
-            "chef_name": "Wang Li",
-            "years_of_experience": 15,
-            "number_of_recipes": 50,
-            "rating": 4.7,
-            "recipes": [
-                {
-                    "name": "Kung Pao Chicken",
-                    "ingredients": [
-                        "chicken breast",
-                        "peanuts",
-                        "dried red chilies",
-                        "ginger",
-                        "garlic",
-                        "green onions",
-                        "soy sauce",
-                        "rice vinegar",
-                        "cornstarch",
-                        "sugar",
-                        "oil"
-                    ],
-                    "cooking_method": "1. Cut the chicken into small cubes. \n2. Mix soy sauce, rice vinegar, cornstarch, and sugar in a bowl to make the marinade. \n3. Marinate the chicken in the marinade for about 20 minutes. \n4. In a wok, heat up some oil and stir-fry the chicken until cooked through. \n5. Remove the chicken from the wok and set aside. \n6. Stir-fry chopped ginger, garlic, and dried red chilies in the wok until fragrant. \n7. Add peanuts and stir-fry for another minute. \n8. Add the cooked chicken back to the wok and stir to mix. \n9. Add chopped green onions and stir-fry for another minute. \n10. Serve hot with rice.",
-                    "rating": 4.7
-                },
-                {
-                    "name": "Egg Fried Rice",
-                    "ingredients": [
-                        "rice",
-                        "eggs",
-                        "green onions",
-                        "peas",
-                        "carrots",
-                        "soy sauce",
-                        "oil"
-                    ],
-                    "cooking_method": "1. Cook the rice according to package instructions and let cool. \n2. Beat the eggs in a bowl. \n3. Heat up some oil in a wok and scramble the eggs. \n4. Remove the scrambled eggs from the wok and set aside. \n5. Add chopped green onions, peas, and diced carrots to the wok and stir-fry for a few minutes. \n6. Add the cooked rice to the wok and stir-fry until heated through. \n7. Add soy sauce to taste and stir to mix. \n8. Add the scrambled eggs back to the wok and stir to mix. \n9. Serve hot.",
-                    "rating": 4.5
-                },
-                {
-                    "name": "Hot Pot",
-                    "ingredients": [
-                        "sliced beef",
-                        "sliced lamb",
-                        "meatballs",
-                        "tofu",
-                        "napa cabbage",
-                        "bean sprouts",
-                        "shrimp",
-                        "udon noodles",
-                        "chicken broth",
-                        "dipping sauce"
-                    ],
-                    "cooking_method": "1. Heat up the chicken broth in a hot pot. \n2. Add sliced beef, sliced lamb, meatballs, and tofu to the hot pot and cook until done. \n3. Add napa cabbage, bean sprouts, and shrimp and cook for another minute. \n4. Cook the udon noodles according to package instructions and add them to the hot pot. \n5. Serve hot with dipping sauce.",
-                    "rating": 4.9
-                },
-                {
-                    "name": "Mapo Tofu",
-                    "ingredients": [
-                        "ground pork",
-                        "tofu",
-                        "doubanjiang",
-                        "chopped green onions",
-                        "garlic",
-                        "ginger",
-                        "chicken broth",
-                        "soy sauce",
-                        "cornstarch",
-                        "oil",
-                        "Sichuan peppercorns"
-                    ],
-                    "cooking_method": "1. Heat up some oil in a wok and stir-fry chopped ginger, garlic, and ground pork until cooked through. \n2. Add doubanjiang and Sichuan peppercorns to the wok and stir-fry for a few minutes. \n3. Add chicken broth, soy sauce, and diced tofu to the wok and bring to a boil. \n4. Mix cornstarch with water to make a slurry and add it to the wok to thicken the sauce. \n5. Serve hot with chopped green onions on top and rice.",
-                    "rating": 4.6
-                },
-                {
-                    "name": "Scallion Pancakes",
-                    "ingredients": [
-                        "flour",
-                        "water",
-                        "salt",
-                        "sesame oil",
-                        "chopped scallions",
-                        "oil"
-                    ],
-                    "cooking_method": "1. Mix flour, water, and salt in a bowl to make the dough. \n2. Knead the dough for a few minutes and let it rest for about 20 minutes. \n3. Divide the dough into small balls and roll them out into thin circles. \n4. Brush the circles with sesame oil and sprinkle chopped scallions on top. \n5. Roll up the circles and twist them into spirals. \n6. Flatten the spirals into pancakes. \n7. Heat up some oil in a pan and pan-fry the pancakes until golden brown on both sides. \n8. Serve hot.",
-                    "rating": 4.4
-                },
-                {
-                    "name": "Dumplings",
-                    "ingredients": [
-                        "ground pork",
-                        "chopped cabbage",
-                        "chopped green onions",
-                        "ginger",
-                        "soy sauce",
-                        "sesame oil",
-                        "dumpling wrappers",
-                        "water"
-                    ],
-                    "cooking_method": "1. Mix ground pork, chopped cabbage, chopped green onions, ginger, soy sauce, and sesame oil in a bowl to make the filling. \n2. Place a spoonful of filling on a dumpling wrapper and seal the edges. \n3. Boil water in a pot and add the dumplings. \n4. Boil the dumplings for about 5-8 minutes or until they float to the top. \n5. Serve hot with dipping sauce.",
-                    "rating": 4.8
-                }
-            ]
-        },
-        {
-            "name": "Yan Liu",
-            "picture": "https://example.com/yan-liu.jpg",
-            "years_of_experience": 15,
-            "num_recipes": 58,
-            "rating": 4.9,
-            "recipes": [
-                {
-                    "name": "Kung Pao Chicken",
-                    "ingredients": [
-                        "boneless chicken thighs",
-                        "dried red chilies",
-                        "roasted peanuts",
-                        "green onions",
-                        "garlic",
-                        "ginger",
-                        "soy sauce",
-                        "vinegar",
-                        "sugar",
-                        "cornstarch",
-                        "oil"
-                    ],
-                    "cooking_method": "1. Cut boneless chicken thighs into small pieces and marinate with soy sauce, vinegar, and cornstarch for about 15 minutes. \n2. Heat up some oil in a wok and stir-fry dried red chilies, minced garlic, and minced ginger until fragrant. \n3. Add the marinated chicken to the wok and stir-fry until cooked through. \n4. Add roasted peanuts and chopped green onions to the wok and stir-fry for a few more minutes. \n5. Serve hot with rice.",
-                    "rating": 4.9
-                },
-                {
-                    "name": "Hot and Sour Soup",
-                    "ingredients": [
-                        "chicken broth",
-                        "dried wood ear mushrooms",
-                        "dried shiitake mushrooms",
-                        "tofu",
-                        "bamboo shoots",
-                        "eggs",
-                        "cornstarch",
-                        "vinegar",
-                        "soy sauce",
-                        "white pepper",
-                        "sesame oil"
-                    ],
-                    "cooking_method": "1. Soak dried wood ear mushrooms and dried shiitake mushrooms in hot water until they become soft. \n2. Cut tofu into small pieces and chop bamboo shoots. \n3. Beat eggs in a bowl. \n4. Mix cornstarch with water to make a slurry. \n5. Bring chicken broth to a boil in a pot and add the soaked mushrooms, tofu, and bamboo shoots. \n6. Add cornstarch slurry, beaten eggs, vinegar, soy sauce, white pepper, and sesame oil to the pot and stir until the soup thickens. \n7. Serve hot.",
-                    "rating": 4.7
-                },
-                {
-                    "name": "Dan Dan Noodles",
-                    "ingredients": [
-                        "noodles",
-                        "ground pork",
-                        "dried shiitake mushrooms",
-                        "chopped scallions",
-                        "garlic",
-                        "ginger",
-                        "soy sauce",
-                        "doubanjiang",
-                        "sesame paste",
-                        "sugar",
-                        "oil"
-                    ],
-                    "cooking_method": "1. Cook noodles according to the package instructions and set aside. \n2. Soak dried shiitake mushrooms in hot water until they become soft and chop them. \n3. Stir-fry ground pork in a wok until cooked through. \n4. Add chopped garlic and ginger to the wok and stir-fry for a few more minutes. \n5. Add chopped scallions, chopped shiitake mushrooms, doubanjiang, soy sauce, sesame paste, sugar, and a little water to the wok and stir-fry until everything is well combined. \n6. Serve hot with the cooked noodles.",
-                    "rating": 4.8
-                },
-                {
-                    "name": "Sesame Chicken",
-                    "ingredients": [
-                        "boneless chicken breasts",
-                        "soy sauce",
-                        "sugar",
-                        "rice vinegar",
-                        "cornstarch",
-                        "eggs",
-                        "flour",
-                        "sesame seeds",
-                        "oil"
-                    ],
-                    "cooking_method": "1. Cut boneless chicken breasts into small pieces and marinate with soy sauce, sugar, and rice vinegar for about 30 minutes. \n2. Beat eggs in a bowl and mix with some flour to make a batter. \n3. Coat the marinated chicken pieces with cornstarch and dip them in the egg batter. \n4. Heat up some oil in a pan and fry the chicken pieces until golden brown. \n5. Sprinkle sesame seeds over the chicken pieces and stir-fry for a few more minutes. \n6. Serve hot with rice.",
-                    "rating": 4.6
-                },
-                {
-                    "name": "Mapo Tofu",
-                    "ingredients": [
-                        "tofu",
-                        "ground pork",
-                        "doubanjiang",
-                        "chopped scallions",
-                        "garlic",
-                        "ginger",
-                        "soy sauce",
-                        "sugar",
-                        "cornstarch",
-                        "oil"
-                    ],
-                    "cooking_method": "1. Cut tofu into small cubes and set aside. \n2. Stir-fry ground pork in a wok until cooked through. \n3. Add chopped garlic, ginger, and chopped scallions to the wok and stir-fry for a few more minutes. \n4. Add doubanjiang, soy sauce, and sugar to the wok and stir-fry until fragrant. \n5. Add the tofu cubes to the wok and stir gently to avoid breaking the tofu. \n6. Mix some cornstarch with water to make a slurry and add it to the wok to thicken the sauce. \n7. Serve hot with rice.",
-                    "rating": 4.7
-                },
-                {
-                    "name": "Scallion Pancakes",
-                    "ingredients": [
-                        "flour",
-                        "water",
-                        "chopped scallions",
-                        "oil",
-                        "salt"
-                    ],
-                    "cooking_method": "1. Mix flour, water, and salt to make a dough. \n2. Knead the dough for a few minutes and let it rest for about 30 minutes. \n3. Divide the dough into small balls and roll them out into thin pancakes. \n4. Sprinkle chopped scallions over the pancakes and press them into the dough. \n5. Heat up some oil in a pan and fry the pancakes until golden brown on both sides. \n6. Serve hot.",
-                    "rating": 4.5
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "picture": "https://d1bv800myis4wj.cloudfront.net/img/chef/3e09c200-4c8f-11e6-b6fe-0b85fba60b34_Aaron-Tan_675_675.jpg",
+        "name": "Li Ming",
+        "id" : 1,
+        "experience": 15,
+        "num_recipes": 50,
+        "rating": 4.5,
+        "recipes": [
+            {
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "dried wood ear mushrooms",
+                    "dried shiitake mushrooms",
+                    "tofu",
+                    "bamboo shoots",
+                    "pork",
+                    "chicken broth",
+                    "soy sauce",
+                    "rice vinegar",
+                    "cornstarch",
+                    "sesame oil",
+                    "white pepper"
+                ],
+                "cooking_method": "1. Soak the dried mushrooms in water until softened, then slice thinly. \n2. Cut the tofu and bamboo shoots into small pieces. \n3. In a pot, bring the chicken broth to a boil and add the pork, dried mushrooms, tofu, and bamboo shoots. \n4. Add soy sauce and rice vinegar to taste. \n5. Mix cornstarch with water and add it to the soup to thicken it. \n6. Season with sesame oil and white pepper to taste. \n7. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "name": "Ma Po Doufu",
+                "ingredients": [
+                    "tofu",
+                    "ground pork",
+                    "doubanjiang (fermented broad bean paste)",
+                    "Sichuan peppercorns",
+                    "green onions",
+                    "garlic",
+                    "ginger",
+                    "chicken broth",
+                    "cornstarch",
+                    "oil",
+                    "soy sauce"
+                ],
+                "cooking_method": "1. Cut the tofu into small cubes and set aside. \n2. In a wok, heat up some oil and stir-fry the ground pork until browned. \n3. Add the doubanjiang, Sichuan peppercorns, green onions, garlic, and ginger, and stir-fry until fragrant. \n4. Add chicken broth and bring to a boil. \n5. Gently add the tofu cubes and simmer for a few minutes. \n6. Mix cornstarch with water and add it to the wok to thicken the sauce. \n7. Serve hot with rice.",
+                "rating": 4.6
+            },
+            {
+                "name": "Dumplings",
+                "ingredients": [
+                    "ground pork",
+                    "shrimp",
+                    "Napa cabbage",
+                    "green onions",
+                    "ginger",
+                    "garlic",
+                    "soy sauce",
+                    "sesame oil",
+                    "egg",
+                    "wonton wrappers"
+                ],
+                "cooking_method": "1. Finely chop the shrimp, Napa cabbage, green onions, ginger, and garlic. \n2. In a bowl, mix the ground pork, shrimp, Napa cabbage, green onions, ginger, garlic, soy sauce, sesame oil, and egg. \n3. Take a wonton wrapper and add a spoonful of filling in the center. \n4. Fold the wrapper into a half-moon shape and press the edges to seal. \n5. Repeat until all of the filling and wrappers are used up. \n6. In a pot of boiling water, cook the dumplings for about 5-6 minutes until they float to the surface. \n7. Serve hot with soy sauce ",
+                "rating": 4.6
+            },
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "boneless chicken breast",
+                    "dried red chilies",
+                    "Sichuan peppercorns",
+                    "green onions",
+                    "garlic",
+                    "ginger",
+                    "soy sauce",
+                    "Shaoxing wine",
+                    "cornstarch",
+                    "sugar",
+                    "oil",
+                    "roasted peanuts"
+                ],
+                "cooking_method": "1. Cut the boneless chicken breast into small cubes and marinate with soy sauce, Shaoxing wine, cornstarch, and sugar. \n2. In a wok, heat up some oil and stir-fry the dried red chilies, Sichuan peppercorns, green onions, garlic, and ginger until fragrant. \n3. Add the marinated chicken and stir-fry until cooked through. \n4. Add roasted peanuts and stir-fry for another minute. \n5. Serve hot with rice.",
+                "rating": 4.4
+            },
+            {
+                "name": "Sichuan Eggplant",
+                "ingredients": [
+                    "Chinese eggplant",
+                    "ground pork",
+                    "doubanjiang (fermented broad bean paste)",
+                    "Sichuan peppercorns",
+                    "green onions",
+                    "garlic",
+                    "ginger",
+                    "soy sauce",
+                    "Shaoxing wine",
+                    "cornstarch",
+                    "oil"
+                ],
+                "cooking_method": "1. Cut the Chinese eggplant into small pieces and soak in water for about 10 minutes. \n2. In a wok, heat up some oil and stir-fry the ground pork until browned. \n3. Add the doubanjiang, Sichuan peppercorns, green onions, garlic, and ginger, and stir-fry until fragrant. \n4. Add the eggplant and stir-fry until cooked through. \n5. Mix cornstarch with water and add it to the wok to thicken the sauce. \n6. Serve hot with rice.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "picture": "https://img.tasteshow.com/assets/uploads/2020/02/ChefJohn_feature-e1587672025261.jpg",
+        "name": "Wang Wei",
+        "id" : 2,
+        "experience": 20,
+        "num_recipes": 60,
+        "rating": 4.8,
+        "recipes": [
+            {
+                "name": "Xiaolongbao",
+                "ingredients": [
+                    "ground pork",
+                    "gelatin",
+                    "soy sauce",
+                    "sesame oil",
+                    "sugar",
+                    "green onions",
+                    "ginger",
+                    "water",
+                    "flour",
+                    "yeast",
+                    "baking powder"
+                ],
+                "cooking_method": "1. In a bowl, mix ground pork, gelatin, soy sauce, sesame oil, sugar, green onions, and ginger. \n2. In another bowl, mix flour, yeast, and baking powder. \n3. Add water to the flour mixture and knead until smooth. \n4. Let the dough rest for about 30 minutes. \n5. Roll the dough into thin circles and add a spoonful of filling in the center. \n6. Fold the dough into a small purse and twist the top to seal. \n7. Steam the xiaolongbao for about 10-15 minutes. \n8. Serve hot with vinegar and ginger slices.",
+                "rating": 4.9
+            },
+            {
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "firm tofu",
+                    "ground pork",
+                    "doubanjiang (fermented broad bean paste)",
+                    "Sichuan peppercorns",
+                    "green onions",
+                    "garlic",
+                    "ginger",
+                    "soy sauce",
+                    "cornstarch",
+                    "oil"
+                ],
+                "cooking_method": "1. Cut the firm tofu into small cubes and blanch in hot water for about 2 minutes. \n2. In a wok, heat up some oil and stir-fry the ground pork until browned. \n3. Add the doubanjiang, Sichuan peppercorns, green onions, garlic, and ginger, and stir-fry until fragrant. \n4. Add the blanched tofu and soy sauce, and gently stir to coat. \n5. Mix cornstarch with water and add it to the wok to thicken the sauce. \n6. Serve hot with rice.",
+                "rating": 4.7
+            },
+            {
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "dried wood ear mushrooms",
+                    "dried shiitake mushrooms",
+                    "bamboo shoots",
+                    "tofu",
+                    "pork tenderloin",
+                    "white pepper",
+                    "red pepper flakes",
+                    "rice vinegar",
+                    "soy sauce",
+                    "cornstarch",
+                    "egg",
+                    "green onions"
+                ],
+                "cooking_method": "1. Soak the dried wood ear mushrooms and dried shiitake mushrooms in hot water until soft. \n2. In a pot, bring chicken stock to a boil and add bamboo shoots, tofu, and thinly sliced pork tenderloin. \n3. Add the soaked mushrooms and simmer for a few minutes. \n4. Season with white pepper, red pepper flakes, rice vinegar, and soy sauce. \n5. Mix cornstarch with water and add it to the pot to thicken the soup. \n6. Beat an egg and slowly pour it into the soup, stirring constantly. \n7. Garnish with green onions and serve hot.",
+                "rating": 4.6
+            },
+            {
+                "name": "Beijing Duck",
+                "ingredients": [
+                    "whole duck",
+                    "salt",
+                    "water",
+                    "maltose",
+                    "hoisin sauce",
+                    "cucumber",
+                    "scallions",
+                    "pancakes"
+                ],
+                "cooking_method": "1. Clean the whole duck and remove any innards. \n2. Mix salt with water and pour it over the duck, rubbing it all over. \n3. Hang the duck up to dry in a cool, dry place for at least 6 hours. \n4. Mix maltose with hot water and brush it over the duck to create a shiny glaze. \n5. Roast the duck in the oven at high heat for about 30-40 minutes. \n6. Serve with hoisin sauce, thinly sliced cucumber, scallions, and warm pancakes.",
+                "rating": 4.9
+            },
+            {
+                "name": "Moo Shu Pork",
+                "ingredients": [
+                    "pork loin",
+                    "shiitake mushrooms",
+                    "wood ear mushrooms",
+                    "carrots",
+                    "cabbage",
+                    "eggs",
+                    "hoisin sauce",
+                    "soy sauce",
+                    "sugar",
+                    "cornstarch",
+                    "oil",
+                    "pancakes"
+                ],
+                "cooking_method": "1. Slice the pork loininto thin strips and marinate with soy sauce, sugar, and cornstarch. \n2. Soak the shiitake mushrooms and wood ear mushrooms in hot water until soft, and slice thinly. \n3. Shred the carrots and cabbage. \n4. Beat the eggs and make a thin omelette, then slice it into thin strips. \n5. In a wok, heat up some oil and stir-fry the marinated pork until browned. \n6. Add the sliced mushrooms, shredded carrots and cabbage, and stir-fry until tender. \n7. Add hoisin sauce and stir to coat. \n8. Add the sliced omelette and mix well. \n9. Serve hot with warm pancakes.",
+                "rating": 4.5
+            },
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "chicken breast",
+                    "peanuts",
+                    "dried red chili peppers",
+                    "Sichuan peppercorns",
+                    "ginger",
+                    "garlic",
+                    "green onions",
+                    "soy sauce",
+                    "sugar",
+                    "cornstarch",
+                    "oil"
+                ],
+                "cooking_method": "1. Cut the chicken breast into small cubes and marinate with soy sauce, sugar, and cornstarch. \n2. In a wok, heat up some oil and stir-fry the peanuts until golden brown. \n3. Remove the peanuts from the wok and set aside. \n4. In the same wok, add the dried red chili peppers, Sichuan peppercorns, ginger, garlic, and green onions, and stir-fry until fragrant. \n5. Add the marinated chicken and stir-fry until browned. \n6. Add soy sauce and sugar, and stir to coat. \n7. Mix cornstarch with water and add it to the wok to thicken the sauce. \n8. Add the stir-fried peanuts back to the wok and mix well. \n9. Serve hot with rice.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "name": "Wenjun Ma",
+        "id" : 3,
+        "experience": 12,
+        "num_recipes": 26,
+        "rating": 4.7,
+        "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/GaryRhodes.jpg",
+        "recipes": [
+            {
+                "name": "Ma Po Tofu",
+                "ingredients": [
+                    "firm tofu",
+                    "ground pork",
+                    "doubanjiang (fermented broad bean paste)",
+                    "Sichuan peppercorns",
+                    "green onions",
+                    "garlic",
+                    "ginger",
+                    "soy sauce",
+                    "cornstarch",
+                    "oil"
+                ],
+                "cooking_method": "1. Cut the firm tofu into small cubes and blanch in hot water for about 2 minutes. \n2. In a wok, heat up some oil and stir-fry the ground pork until browned. \n3. Add the doubanjiang, Sichuan peppercorns, green onions, garlic, and ginger, and stir-fry until fragrant. \n4. Add the blanched tofu and soy sauce, and gently stir to coat. \n5. Mix cornstarch with water and add it to the wok to thicken the sauce. \n6. Serve hot with rice.",
+                "rating": 4.7
+            },
+            {
+                "name": "Kung Pao Shrimp",
+                "ingredients": [
+                    "shrimp",
+                    "peanuts",
+                    "dried red chili peppers",
+                    "Sichuan peppercorns",
+                    "ginger",
+                    "garlic",
+                    "green onions",
+                    "soy sauce",
+                    "sugar",
+                    "cornstarch",
+                    "oil"
+                ],
+                "cooking_method": "1. Peel and devein the shrimp, and marinate with soy sauce, sugar, and cornstarch. \n2. In a wok, heat up some oil and stir-fry the peanuts until golden brown. \n3. Remove the peanuts from the wok and set aside. \n4. In the same wok, add the dried red chili peppers, Sichuan peppercorns, ginger, garlic, and green onions, and stir-fry until fragrant. \n5. Add the marinated shrimp and stir-fry until pink. \n6. Add soy sauce and sugar, and stir to coat. \n7. Mix cornstarch with water and add it to the wok to thicken the sauce. \n8. Add the stir-fried peanuts back to the wok and mix well. \n9. Serve hot with rice.",
+                "rating": 4.6
+            },
+            {
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "pork shoulder",
+                    "dried shiitake mushrooms",
+                    "wood ear mushrooms",
+                    "bamboo shoots",
+                    "tofu",
+                    "eggs",
+                    "soy sauce",
+                    "vinegar",
+                    "white pepper",
+                    "cornstarch",
+                    "oil"
+                ],
+                "cooking_method": "1. Cut the pork shoulder into thin strips and marinate with soy sauce, sugar, and cornstarch. \n2. Soak the shiitake mushrooms and wood ear mushrooms in hot water until soft, and slice thinly. \n3. Cut the bamboo shoots and tofu into small cubes. \n4. Beat the eggs and make a thin omelette, then slice it into thin strips. \n5. In a pot, heat up some oil and stir-fry the marinated pork until browned. \n6. Add the sliced mushrooms, bamboo shoots, and tofu, and stir-fry until tender. \n7. Add soy sauce, vinegar, white pepper, and water, and bring to a boil. \n8. Mix cornstarch with water and add it to the soup to thicken. \n9. Add the sliced omelette and mix well. \n10. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "name": "Scallion Pancakes",
+                "ingredients": [
+                    "flour",
+                    "water",
+                    "salt",
+                    "sesame oil",
+                    "scallions",
+                    "oil"
+                ],
+                "cooking_method": "1. In a bowl, mix flour, water, and salt to make a dough. \n2. Knead the dough for a few minutes until smooth. \n3. Cover the dough and let it rest for 30 minutes. \n4. Roll out the dough into a thin sheet. \n5. Brush the sheet with sesame oil and sprinkle chopped scallions on top. \n6. Roll up the sheet into a cylinder and twist the cylinder into a spiral. \n7. Flatten the spiral with a rolling pin to make a pancake. \n8. In a pan, heat up some oil and pan-fry the pancake until golden brown on both sides. \n9. Cut the pancake into wedges and serve hot.",
+                "rating": 4.4
+            }
+        ]
+    },
+    {
+        "name": "Chef Zhang",
+        "id" : 4,
+        "experience": 20,
+        "num_recipes": 50,
+        "rating": 4.8,
+        "picture": "https://frenchefs.com/wp-content/uploads/2018/07/DSC4196-670x1024.jpg",
+        "recipes": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "chicken breast",
+                    "dried red chili peppers",
+                    "Sichuan peppercorns",
+                    "ginger",
+                    "garlic",
+                    "green onions",
+                    "peanuts",
+                    "soy sauce",
+                    "sugar",
+                    "cornstarch",
+                    "oil"
+                ],
+                "cooking_method": "1. Cut the chicken breast into small cubes and marinate with soy sauce, sugar, and cornstarch. \n2. In a wok, heat up some oil and stir-fry the peanuts until golden brown. \n3. Remove the peanuts from the wok and set aside. \n4. In the same wok, add the dried red chili peppers, Sichuan peppercorns, ginger, garlic, and green onions, and stir-fry until fragrant. \n5. Add the marinated chicken and stir-fry until cooked. \n6. Add soy sauce and sugar, and stir to coat. \n7. Mix cornstarch with water and add it to the wok to thicken the sauce. \n8. Add the stir-fried peanuts back to the wok and mix well. \n9. Serve hot with rice.",
+                "rating": 4.7
+            },
+            {
+                "name": "Egg Fried Rice",
+                "ingredients": [
+                    "rice",
+                    "eggs",
+                    "peas",
+                    "carrots",
+                    "green onions",
+                    "soy sauce",
+                    "oil"
+                ],
+                "cooking_method": "1. Cook the rice and let it cool. \n2. Beat the eggs and chop the peas, carrots, and green onions into small pieces. \n3. In a pan, heat up some oil and scramble the eggs. \n4. Add the chopped vegetables and stir-fry for a few minutes. \n5. Add the cooked rice and stir-fry until heated through. \n6. Add soy sauce to taste and stir to coat. \n7. Serve hot.",
+                "rating": 4.3
+            },
+            {
+                "name": "Ma Po Tofu",
+                "ingredients": [
+                    "tofu",
+                    "ground pork",
+                    "dried red chili peppers",
+                    "Sichuan peppercorns",
+                    "ginger",
+                    "garlic",
+                    "green onions",
+                    "doubanjiang (chili bean paste)",
+                    "soy sauce",
+                    "sugar",
+                    "cornstarch",
+                    "oil"
+                ],
+                "cooking_method": "1. Cut the tofu into small cubes and set aside. \n2. In a wok, heat up some oil and stir-fry the ground pork until browned. \n3. Add the dried red chili peppers, Sichuan peppercorns, ginger, garlic, and green onions, and stir-fry until fragrant. \n4. Add doubanjiang and stir to coat. \n5. Add water and bring to a boil. \n6. Add the tofu and stir gently to avoid breaking it. \n7. Add soy sauce and sugar, and stir to mix. \n8. Mix cornstarch with water and add it to the wok to thicken the sauce. \n9. Serve hot with rice.",
+                "rating": 4.6
+            },
+            {
+                "name": "Steamed Dumplings",
+                "ingredients": [
+                    "ground pork",
+                    "green onions",
+                    "soy sauce",
+                    "sesame oil",
+                    "dumpling wrappers",
+                    "water"
+                ],
+                "cooking_method": "1. Mix the ground pork, chopped green onions, soy sauce, and sesame oil in a bowl. \n2. Place a spoonful of the filling onto a dumpling wrapper. \n3. Wet the edges of the wrapper with water and fold in half to form a half-moon shape. \n4. Pinch the edges together to seal. \n5. Place the dumplings in a steamer basket and steam for about 10 minutes. \n6. Serve hot with soy sauce for dipping.",
+                "rating": 4.2
+            },
+            {
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "pork",
+                    "tofu",
+                    "dried black fungus",
+                    "bamboo shoots",
+                    "carrots",
+                    "dried lily buds",
+                    "green onions",
+                    "ginger",
+                    "garlic",
+                    "white pepper",
+                    "soy sauce",
+                    "rice vinegar",
+                    "cornstarch",
+                    "egg",
+                    "sesame oil"
+                ],
+                "cooking_method": "1. Soak the dried black fungus and dried lily buds in water until softened. \n2. Cut the pork, tofu, bamboo shoots, carrots, and softened black fungus and lily buds into thin strips. \n3. In a pot, bring some water to a boil and add the pork, bamboo shoots, carrots, and dried lily buds. \n4. Add ginger, garlic, and white pepper and simmer for about 20 minutes. \n5. Add the softened black fungus and tofu and simmer for another 5 minutes. \n6. Add soy sauce and rice vinegar to taste. \n7. Mix cornstarch with water and add it to the pot to thicken the soup. \n8. Beat an egg and slowly pour it into the soup, stirring constantly. \n9. Add sesame oil and green onions and stir to mix. \n10. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "name": "Scallion Pancakes",
+                "ingredients": [
+                    "flour",
+                    "water",
+                    "salt",
+                    "oil",
+                    "green onions"
+                ],
+                "cooking_method": "1. In a bowl, mix the flour, water, and salt until a dough forms. \n2. Knead the dough for a few minutes, then cover and let rest for about 30 minutes. \n3. Divide the dough into several small balls. \n4. Roll each ball into a thin circle. \n5. Brush the surface of the circle with oil and sprinkle with chopped green onions. \n6. Roll the circle up into a tight spiral. \n7. Flatten the spiral into a circle again. \n8. Repeat with the remaining balls of dough. \n9. Heat up a pan and fry each pancake on both sides until golden brown. \n10. Cut the pancake into wedges and serve hot.",
+                "rating": 4.4
+            }
+        ]
+    },
+    {
+        "picture": "https://i0.wp.com/china-underground.com/wp-content/uploads/2023/01/susur-lee.jpg",
+        "name": "Wang Li",
+        "id" : 5,
+        "experience": 15,
+        "num_recipes": 50,
+        "rating": 4.7,
+        "recipes": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "chicken breast",
+                    "peanuts",
+                    "dried red chilies",
+                    "ginger",
+                    "garlic",
+                    "green onions",
+                    "soy sauce",
+                    "rice vinegar",
+                    "cornstarch",
+                    "sugar",
+                    "oil"
+                ],
+                "cooking_method": "1. Cut the chicken into small cubes. \n2. Mix soy sauce, rice vinegar, cornstarch, and sugar in a bowl to make the marinade. \n3. Marinate the chicken in the marinade for about 20 minutes. \n4. In a wok, heat up some oil and stir-fry the chicken until cooked through. \n5. Remove the chicken from the wok and set aside. \n6. Stir-fry chopped ginger, garlic, and dried red chilies in the wok until fragrant. \n7. Add peanuts and stir-fry for another minute. \n8. Add the cooked chicken back to the wok and stir to mix. \n9. Add chopped green onions and stir-fry for another minute. \n10. Serve hot with rice.",
+                "rating": 4.7
+            },
+            {
+                "name": "Egg Fried Rice",
+                "ingredients": [
+                    "rice",
+                    "eggs",
+                    "green onions",
+                    "peas",
+                    "carrots",
+                    "soy sauce",
+                    "oil"
+                ],
+                "cooking_method": "1. Cook the rice according to package instructions and let cool. \n2. Beat the eggs in a bowl. \n3. Heat up some oil in a wok and scramble the eggs. \n4. Remove the scrambled eggs from the wok and set aside. \n5. Add chopped green onions, peas, and diced carrots to the wok and stir-fry for a few minutes. \n6. Add the cooked rice to the wok and stir-fry until heated through. \n7. Add soy sauce to taste and stir to mix. \n8. Add the scrambled eggs back to the wok and stir to mix. \n9. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "name": "Hot Pot",
+                "ingredients": [
+                    "sliced beef",
+                    "sliced lamb",
+                    "meatballs",
+                    "tofu",
+                    "napa cabbage",
+                    "bean sprouts",
+                    "shrimp",
+                    "udon noodles",
+                    "chicken broth",
+                    "dipping sauce"
+                ],
+                "cooking_method": "1. Heat up the chicken broth in a hot pot. \n2. Add sliced beef, sliced lamb, meatballs, and tofu to the hot pot and cook until done. \n3. Add napa cabbage, bean sprouts, and shrimp and cook for another minute. \n4. Cook the udon noodles according to package instructions and add them to the hot pot. \n5. Serve hot with dipping sauce.",
+                "rating": 4.9
+            },
+            {
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "ground pork",
+                    "tofu",
+                    "doubanjiang",
+                    "chopped green onions",
+                    "garlic",
+                    "ginger",
+                    "chicken broth",
+                    "soy sauce",
+                    "cornstarch",
+                    "oil",
+                    "Sichuan peppercorns"
+                ],
+                "cooking_method": "1. Heat up some oil in a wok and stir-fry chopped ginger, garlic, and ground pork until cooked through. \n2. Add doubanjiang and Sichuan peppercorns to the wok and stir-fry for a few minutes. \n3. Add chicken broth, soy sauce, and diced tofu to the wok and bring to a boil. \n4. Mix cornstarch with water to make a slurry and add it to the wok to thicken the sauce. \n5. Serve hot with chopped green onions on top and rice.",
+                "rating": 4.6
+            },
+            {
+                "name": "Scallion Pancakes",
+                "ingredients": [
+                    "flour",
+                    "water",
+                    "salt",
+                    "sesame oil",
+                    "chopped scallions",
+                    "oil"
+                ],
+                "cooking_method": "1. Mix flour, water, and salt in a bowl to make the dough. \n2. Knead the dough for a few minutes and let it rest for about 20 minutes. \n3. Divide the dough into small balls and roll them out into thin circles. \n4. Brush the circles with sesame oil and sprinkle chopped scallions on top. \n5. Roll up the circles and twist them into spirals. \n6. Flatten the spirals into pancakes. \n7. Heat up some oil in a pan and pan-fry the pancakes until golden brown on both sides. \n8. Serve hot.",
+                "rating": 4.4
+            },
+            {
+                "name": "Dumplings",
+                "ingredients": [
+                    "ground pork",
+                    "chopped cabbage",
+                    "chopped green onions",
+                    "ginger",
+                    "soy sauce",
+                    "sesame oil",
+                    "dumpling wrappers",
+                    "water"
+                ],
+                "cooking_method": "1. Mix ground pork, chopped cabbage, chopped green onions, ginger, soy sauce, and sesame oil in a bowl to make the filling. \n2. Place a spoonful of filling on a dumpling wrapper and seal the edges. \n3. Boil water in a pot and add the dumplings. \n4. Boil the dumplings for about 5-8 minutes or until they float to the top. \n5. Serve hot with dipping sauce.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "name": "Yan Liu",
+        "picture": "https://i0.wp.com/china-underground.com/wp-content/uploads/2020/10/janice-wong.jpg",
+        "experience": 15,
+        "id" : 6,
+        "num_recipes": 58,
+        "rating": 4.9,
+        "recipes": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "boneless chicken thighs",
+                    "dried red chilies",
+                    "roasted peanuts",
+                    "green onions",
+                    "garlic",
+                    "ginger",
+                    "soy sauce",
+                    "vinegar",
+                    "sugar",
+                    "cornstarch",
+                    "oil"
+                ],
+                "cooking_method": "1. Cut boneless chicken thighs into small pieces and marinate with soy sauce, vinegar, and cornstarch for about 15 minutes. \n2. Heat up some oil in a wok and stir-fry dried red chilies, minced garlic, and minced ginger until fragrant. \n3. Add the marinated chicken to the wok and stir-fry until cooked through. \n4. Add roasted peanuts and chopped green onions to the wok and stir-fry for a few more minutes. \n5. Serve hot with rice.",
+                "rating": 4.9
+            },
+            {
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "chicken broth",
+                    "dried wood ear mushrooms",
+                    "dried shiitake mushrooms",
+                    "tofu",
+                    "bamboo shoots",
+                    "eggs",
+                    "cornstarch",
+                    "vinegar",
+                    "soy sauce",
+                    "white pepper",
+                    "sesame oil"
+                ],
+                "cooking_method": "1. Soak dried wood ear mushrooms and dried shiitake mushrooms in hot water until they become soft. \n2. Cut tofu into small pieces and chop bamboo shoots. \n3. Beat eggs in a bowl. \n4. Mix cornstarch with water to make a slurry. \n5. Bring chicken broth to a boil in a pot and add the soaked mushrooms, tofu, and bamboo shoots. \n6. Add cornstarch slurry, beaten eggs, vinegar, soy sauce, white pepper, and sesame oil to the pot and stir until the soup thickens. \n7. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "name": "Dan Dan Noodles",
+                "ingredients": [
+                    "noodles",
+                    "ground pork",
+                    "dried shiitake mushrooms",
+                    "chopped scallions",
+                    "garlic",
+                    "ginger",
+                    "soy sauce",
+                    "doubanjiang",
+                    "sesame paste",
+                    "sugar",
+                    "oil"
+                ],
+                "cooking_method": "1. Cook noodles according to the package instructions and set aside. \n2. Soak dried shiitake mushrooms in hot water until they become soft and chop them. \n3. Stir-fry ground pork in a wok until cooked through. \n4. Add chopped garlic and ginger to the wok and stir-fry for a few more minutes. \n5. Add chopped scallions, chopped shiitake mushrooms, doubanjiang, soy sauce, sesame paste, sugar, and a little water to the wok and stir-fry until everything is well combined. \n6. Serve hot with the cooked noodles.",
+                "rating": 4.8
+            },
+            {
+                "name": "Sesame Chicken",
+                "ingredients": [
+                    "boneless chicken breasts",
+                    "soy sauce",
+                    "sugar",
+                    "rice vinegar",
+                    "cornstarch",
+                    "eggs",
+                    "flour",
+                    "sesame seeds",
+                    "oil"
+                ],
+                "cooking_method": "1. Cut boneless chicken breasts into small pieces and marinate with soy sauce, sugar, and rice vinegar for about 30 minutes. \n2. Beat eggs in a bowl and mix with some flour to make a batter. \n3. Coat the marinated chicken pieces with cornstarch and dip them in the egg batter. \n4. Heat up some oil in a pan and fry the chicken pieces until golden brown. \n5. Sprinkle sesame seeds over the chicken pieces and stir-fry for a few more minutes. \n6. Serve hot with rice.",
+                "rating": 4.6
+            },
+            {
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "tofu",
+                    "ground pork",
+                    "doubanjiang",
+                    "chopped scallions",
+                    "garlic",
+                    "ginger",
+                    "soy sauce",
+                    "sugar",
+                    "cornstarch",
+                    "oil"
+                ],
+                "cooking_method": "1. Cut tofu into small cubes and set aside. \n2. Stir-fry ground pork in a wok until cooked through. \n3. Add chopped garlic, ginger, and chopped scallions to the wok and stir-fry for a few more minutes. \n4. Add doubanjiang, soy sauce, and sugar to the wok and stir-fry until fragrant. \n5. Add the tofu cubes to the wok and stir gently to avoid breaking the tofu. \n6. Mix some cornstarch with water to make a slurry and add it to the wok to thicken the sauce. \n7. Serve hot with rice.",
+                "rating": 4.7
+            },
+            {
+                "name": "Scallion Pancakes",
+                "ingredients": [
+                    "flour",
+                    "water",
+                    "chopped scallions",
+                    "oil",
+                    "salt"
+                ],
+                "cooking_method": "1. Mix flour, water, and salt to make a dough. \n2. Knead the dough for a few minutes and let it rest for about 30 minutes. \n3. Divide the dough into small balls and roll them out into thin pancakes. \n4. Sprinkle chopped scallions over the pancakes and press them into the dough. \n5. Heat up some oil in a pan and fry the pancakes until golden brown on both sides. \n6. Serve hot.",
+                "rating": 4.5
+            }
+        ]
+    }
+]
