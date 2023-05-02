@@ -1,0 +1,20 @@
+[
+    {
+      "recipe_name": "Kung Pao Chicken",
+      "recipe_image": "http://www.deliciousworldrecipe.com/files/2012/08/kung-pao-chicken.jpg",
+      "description": "Kung Pao Chicken is a popular Chinese dish that is spicy, savory, and slightly sweet. It typically consists of stir-fried chicken, peanuts, vegetables, and chili peppers in a flavorful sauce. It can be served over rice or noodles and is perfect for a quick and easy weeknight meal.",
+      "rating": 4.5
+    },
+    {
+      "recipe_name": "Mapo Tofu",
+      "recipe_image": "https://norecipes.com/wp-content/uploads/2020/01/vegan-mapo-tofu-011.jpg",
+      "description": "Mapo Tofu is a classic Sichuan dish that is known for its spicy and numbing flavors. It features soft tofu in a spicy chili bean sauce with minced meat and Sichuan peppercorns. It is typically served over rice and is a favorite among spicy food lovers.",
+      "rating": 4.0
+    },
+    {
+      "recipe_name": "Dumplings",
+      "recipe_image": "https://img.delicious.com.au/cmbl6X53/del/2015/10/shanghai-dumplings-13090-3.jpg",
+      "description": "Dumplings are a staple in Chinese cuisine and are enjoyed all over the world. They can be filled with a variety of meats, vegetables, and spices and are typically served with a dipping sauce. They can be boiled, steamed, or fried and are perfect for a party or a quick snack.",
+      "rating": 4.8
+    }
+  ]

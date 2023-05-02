@@ -3,6 +3,7 @@
         "picture": "https://d1bv800myis4wj.cloudfront.net/img/chef/3e09c200-4c8f-11e6-b6fe-0b85fba60b34_Aaron-Tan_675_675.jpg",
         "name": "Li Ming",
         "id" : 1,
+        "description" : "Li Ming is a Taiwanese-born chef who has made a name for himself in the culinary world with his fusion cuisine. He is the owner of several award-winning restaurants in Toronto and New York, and has appeared on numerous cooking shows. Chef Li is known for his innovative use of ingredients and his ability to blend different flavors and cuisines.",
         "experience": 15,
         "num_recipes": 50,
         "rating": 4.5,
@@ -103,6 +104,7 @@
         "picture": "https://img.tasteshow.com/assets/uploads/2020/02/ChefJohn_feature-e1587672025261.jpg",
         "name": "Wang Wei",
         "id" : 2,
+        "description" : "Wang Wei is a Chinese-American chef and television personality who is best known for his BBC cooking show, “Wang Wei’s Chinese Cookery.” He has also written over 20 cookbooks and has received numerous awards for his culinary skills.",
         "experience": 20,
         "num_recipes": 60,
         "rating": 4.8,
@@ -218,6 +220,7 @@
     {
         "name": "Wenjun Ma",
         "id" : 3,
+        "description" : "Wenjun Ma is a Chinese-American chef and television personality who is the owner of Blue Ginger, a modern Asian fusion restaurant in Wellesley, Massachusetts. Chef Wenjun is known for his innovative use of ingredients and his focus on healthy, balanced meals.",
         "experience": 12,
         "num_recipes": 26,
         "rating": 4.7,
@@ -294,6 +297,7 @@
     {
         "name": "Chef Zhang",
         "id" : 4,
+        "description" : "Chef Zhang was reared by a Shanghainese family in both Hong Kong and Canada. He represented Hong Kong at events celebrating food, such as “Omnivore” in Shanghai and Paris. By drawing inspiration from his Chinese roots and deftly interpreting familiar flavors in truly novel ways, Chef ZHang celebrates and rewrites the norms of regional cuisine",
         "experience": 20,
         "num_recipes": 50,
         "rating": 4.8,
@@ -403,6 +407,7 @@
         "picture": "https://i0.wp.com/china-underground.com/wp-content/uploads/2023/01/susur-lee.jpg",
         "name": "Wang Li",
         "id" : 5,
+        "description" : "Wang Li was born in Chengdu. He learned the fundamentals of cooking and started to see a career as a chef after being hired for a job by his culinary instructor. Wang adds his signature to the building of Chengdu’s culinary heritage. His cuisine develops when new ingredients from different regions of China and forgotten Sichuan recipes are found.",
         "experience": 15,
         "num_recipes": 50,
         "rating": 4.7,
@@ -509,6 +514,7 @@
         "picture": "https://i0.wp.com/china-underground.com/wp-content/uploads/2020/10/janice-wong.jpg",
         "experience": 15,
         "id" : 6,
+        "description" : "Chef Yan Liu an economics graduate from Melbourne’s Monash University, relocated to Paris in 2005 to enroll at the Le Cordon Bleu. She had experience working in a number of prestigious kitchens, including those in San Sebastian, Chicago, and New York. Yan Liu has studied under some of the top chefs in the world, including American legends Grant Achatz and Thomas Keller",
         "num_recipes": 58,
         "rating": 4.9,
         "recipes": [
