@@ -1,0 +1,22 @@
+{
+  "name": "b7a10-chef-recipe-hunter-server-side-aargon007",
+  "version": "1.0.0",
+  "description": "chef recipe api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-aargon007.git"
+  },
+  "author": "md muhaiminul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-aargon007/issues"
+  },
+  "homepage": "https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-aargon007#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
